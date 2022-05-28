@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionDB", "ConnectionDB\ConnectionDB.csproj", "{2E88C078-607F-4463-8B03-C372B784CFDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataOperations", "DataOperations\DataOperations.csproj", "{1C51185C-C397-4E65-8663-182B6436A712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E88C078-607F-4463-8B03-C372B784CFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E88C078-607F-4463-8B03-C372B784CFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E88C078-607F-4463-8B03-C372B784CFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C51185C-C397-4E65-8663-182B6436A712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C51185C-C397-4E65-8663-182B6436A712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C51185C-C397-4E65-8663-182B6436A712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C51185C-C397-4E65-8663-182B6436A712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
